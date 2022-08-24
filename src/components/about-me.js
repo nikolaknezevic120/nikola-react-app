@@ -13,5 +13,4 @@ export default function about_me() {
         </div>
     </Container>
     )
-    conosle.log('...');
 }
