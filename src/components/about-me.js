@@ -12,5 +12,6 @@ export default function about_me() {
             <Carousel />
         </div>
     </Container>
-              )
+    )
+    conosle.log('...');
 }
