@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nikola-react-app/static/css/main.81409bf0.css",
-    "main.js": "/nikola-react-app/static/js/main.3315adf9.js",
+    "main.js": "/nikola-react-app/static/js/main.c4c10873.js",
     "static/js/787.ea596ea7.chunk.js": "/nikola-react-app/static/js/787.ea596ea7.chunk.js",
     "static/media/amfora.png": "/nikola-react-app/static/media/amfora.832306729e4e6d936d9e.png",
     "static/media/dolcevita.png": "/nikola-react-app/static/media/dolcevita.489c11ad873e6569d2df.png",
@@ -26,11 +26,11 @@
     "static/media/slider-image-8.png": "/nikola-react-app/static/media/slider-image-8.4e038f6b8e71a50c6725.png",
     "index.html": "/nikola-react-app/index.html",
     "main.81409bf0.css.map": "/nikola-react-app/static/css/main.81409bf0.css.map",
-    "main.3315adf9.js.map": "/nikola-react-app/static/js/main.3315adf9.js.map",
+    "main.c4c10873.js.map": "/nikola-react-app/static/js/main.c4c10873.js.map",
     "787.ea596ea7.chunk.js.map": "/nikola-react-app/static/js/787.ea596ea7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.81409bf0.css",
-    "static/js/main.3315adf9.js"
+    "static/js/main.c4c10873.js"
   ]
 }
