@@ -41,7 +41,7 @@ function animate_to_right() {
   (0, _jquery.default)('#btn_left').prop('disabled', true);
   (0, _jquery.default)('#btn_right').prop('disabled', true);
   moveElement();
-  console.log('test');
+  console.log('test right');
   setTimeout(() => {
     replaceToStart();
     (0, _jquery.default)('.first-slider').css({
