@@ -4,7 +4,6 @@ import $ from 'jquery';
 function replaceToEnd(){
   $('.first-slider-move').children().last().after($('.first-slider-move').children().first());
   $('.second-slider-move').children().last().after($('.second-slider-move').children().first());
-  console.log('...');
 }
 
 
