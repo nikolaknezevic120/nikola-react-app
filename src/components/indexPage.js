@@ -41,12 +41,12 @@ export default function IndexPage() {
                 četveroznamenkasti random broj.<br />
                 Budući da nisam radio backend, podatci o korisniku se spremaju u local storage, koji se klikom na button 
                 odjavi se, čisti i tako se gube uneseni podatci kao i sve promjene izvršene u listi sa karticama. 
-                <a href='https://nikolaknezevic120.github.io/nikola-react-app/#/login' id='link'>Pogledajte aplikaciju.</a>
+                <a href='https://nikolaknezevic120.github.io/nikola-react-app/#/login' id='link'> Pogledajte aplikaciju.</a>
               </p>}
               {textOpen && <p id='describe'>
                 <b>Infinite slider</b> U ovom zadatku se nalaze dva reda fotografija različitih širina, te se klikom na strelicu 
                 oba dva reda pomiču lijevo ili desno za širinu posljednje slike u redu. 
-                <a href='https://nikolaknezevic120.github.io/nikola-react-app/#/infinite_slider' id='link'>Pogledajte aplikaciju.</a>
+                <a href='https://nikolaknezevic120.github.io/nikola-react-app/#/infinite_slider' id='link'> Pogledajte aplikaciju.</a>
               </p>}
               {textOpen && <p id='describe-bottom'>
                 <b>WordPress- </b>U aplikaciji se mogu pronaći i poveznice na stranice gdje sam sudjelovao u izradi i opisom sto sam točno na njima 
