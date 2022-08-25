@@ -3,7 +3,7 @@ import { Col, Container, Row } from 'react-bootstrap';
 import '../../style/infinite-slider/infinite.css';
 import '../../style/infinite-slider/animation.css';
 import animate_to_right from '../infinite_animations/animation_right';
-import animate_to_left from '../infinite_animations/animation_left';
+import '../infinite_animations/compiled-right';
 import sliderImage1 from '../../images/infinite-slider-images/slider-images/slider-image-1.png';
 import sliderImage2 from '../../images/infinite-slider-images/slider-images/slider-image-2.png';
 import sliderImage3 from '../../images/infinite-slider-images/slider-images/slider-image-3.png';
