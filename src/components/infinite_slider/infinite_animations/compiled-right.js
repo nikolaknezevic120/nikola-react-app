@@ -52,7 +52,7 @@ function animate_to_right() {
     });
     (0, _jquery.default)('#btn_left').prop('disabled', false);
     (0, _jquery.default)('#btn_right').prop('disabled', false);
-  }, 1500);
+  }, 2000);
 }
 
 ;

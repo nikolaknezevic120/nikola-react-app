@@ -28,5 +28,5 @@ function animation_to_left() {
     (0, _jquery.default)('#btn_right').prop('disabled', false);
     (0, _jquery.default)('.first-slider-move').children().last().removeClass("animate-image");
     (0, _jquery.default)('.second-slider-move').children().last().removeClass("animate-image");
-  }, 1500);
+  }, 2000);
 }
