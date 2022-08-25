@@ -42,4 +42,4 @@ setTimeout(() => {
     $('.second-slider-move').css({ marginLeft: "0"});
     $('#btn_left').prop('disabled', false);
     $('#btn_right').prop('disabled', false);
-}, 1500 )};
+}, 2000 )};

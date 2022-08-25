@@ -22,5 +22,5 @@ export default function animation_to_left(){
         $('#btn_right').prop('disabled', false);
         $('.first-slider-move').children().last().removeClass("animate-image");
         $('.second-slider-move').children().last().removeClass("animate-image");
-  }, 1500);
+  }, 2000);
 }
