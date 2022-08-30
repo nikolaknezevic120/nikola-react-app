@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/nikola-react-app/static/css/main.81409bf0.css",
-    "main.js": "/nikola-react-app/static/js/main.34a3ffb8.js",
+    "main.css": "/nikola-react-app/static/css/main.f8af1ab9.css",
+    "main.js": "/nikola-react-app/static/js/main.77ca3841.js",
     "static/js/787.ea596ea7.chunk.js": "/nikola-react-app/static/js/787.ea596ea7.chunk.js",
     "static/media/amfora.png": "/nikola-react-app/static/media/amfora.832306729e4e6d936d9e.png",
     "static/media/dolcevita.png": "/nikola-react-app/static/media/dolcevita.489c11ad873e6569d2df.png",
     "static/media/aquarius.png": "/nikola-react-app/static/media/aquarius.ad11113a431eeeb5dc35.png",
+    "static/media/infinite-slider.zip": "/nikola-react-app/static/media/infinite-slider.5c9d71fe6c1718185a36.zip",
     "static/media/ivandic.png": "/nikola-react-app/static/media/ivandic.07748e8e735254424bd9.png",
     "static/media/image4.jpg": "/nikola-react-app/static/media/image4.ac9e41d7377a66d7342f.jpg",
     "static/media/image5.jpg": "/nikola-react-app/static/media/image5.3988556f768377e75b2d.jpg",
@@ -25,12 +26,12 @@
     "static/media/slider-image-2.png": "/nikola-react-app/static/media/slider-image-2.5e718d4671524babb8bd.png",
     "static/media/slider-image-8.png": "/nikola-react-app/static/media/slider-image-8.4e038f6b8e71a50c6725.png",
     "index.html": "/nikola-react-app/index.html",
-    "main.81409bf0.css.map": "/nikola-react-app/static/css/main.81409bf0.css.map",
-    "main.34a3ffb8.js.map": "/nikola-react-app/static/js/main.34a3ffb8.js.map",
+    "main.f8af1ab9.css.map": "/nikola-react-app/static/css/main.f8af1ab9.css.map",
+    "main.77ca3841.js.map": "/nikola-react-app/static/js/main.77ca3841.js.map",
     "787.ea596ea7.chunk.js.map": "/nikola-react-app/static/js/787.ea596ea7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.81409bf0.css",
-    "static/js/main.34a3ffb8.js"
+    "static/css/main.f8af1ab9.css",
+    "static/js/main.77ca3841.js"
   ]
 }
