@@ -4,6 +4,7 @@ import LogIn from "./components/follow_the_card/component/LogIn";
 import indexPage from "./components/indexPage";
 import infinite_slider from "./components/infinite_slider/infinite_slider";
 import WordPress_Page from "./components/WordPress/WordPress_Page";
+import ContAndDown from "./components/download/ContAndDown";
 
 import {Navigate, Route, Routes} from "react-router-dom";
 
@@ -17,6 +18,7 @@ function App() {
       <Route path="/login" element={LogIn()} />
       <Route path="/infinite_slider" element={infinite_slider()} /> 
       <Route path="/word-press" element={WordPress_Page()} />
+      <Route path="/download-and-contact" element={ContAndDown()} />
     </Routes>
   );
 }

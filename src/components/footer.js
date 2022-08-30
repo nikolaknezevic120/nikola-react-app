@@ -4,6 +4,7 @@ import { BsPinMapFill, BsFillTelephoneOutboundFill, BsEnvelopeOpenFill, BsWordpr
 import { FaReact } from "react-icons/fa";
 import { TbBrandJavascript } from "react-icons/tb";
 import { MdOutlinePageview } from "react-icons/md";
+import { BsFillChatSquareTextFill } from 'react-icons/bs'; 
 import './style/footer/footer.css';
 
 export default function footer() {
@@ -43,6 +44,7 @@ export default function footer() {
 
                   <Col>
                     <h5 id="h5-foot">Kontakt</h5>
+                      <p><BsFillChatSquareTextFill /><a href='https://nikolaknezevic120.github.io/nikola-react-app/#/download-and-contact'> Pošaljite email odmah.</a></p>
                       <p><BsFillTelephoneOutboundFill /> Mob: <a href="tel:+385958409108"> 095 840 91 08 </a></p>
                       <p><BsEnvelopeOpenFill /> Mail: <a href="mailto:nikola120k@gmail.com"> nikola120k@gmail.com </a></p>
                   </Col>

@@ -30,6 +30,7 @@ export default function header() {
                           <NavDropdown.Item href='https://github.com/nikolaknezevic120?tab=repositories' target="_blank" rel="noopener noreferrer">
                             Ostali radovi</NavDropdown.Item>
                       </NavDropdown>
+                      <Nav.Link href="https://nikolaknezevic120.github.io/nikola-react-app/#/download-and-contact">Kontakt i download</Nav.Link>
                   </Nav>
 
               </Navbar.Collapse>
