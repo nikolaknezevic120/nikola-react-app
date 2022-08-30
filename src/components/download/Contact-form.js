@@ -38,7 +38,7 @@ const ContactForm = () => {
         <input type="number" name="user_phone" />
         <label>Poruka</label>
         <textarea name="message" />
-        <input type="submit" id="send-message" value="Pošsaljite poruku" />
+        <input type="submit" id="send-message" value="Pošaljite poruku" />
       </form>
     </StyledContactForm>
   );
