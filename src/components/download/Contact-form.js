@@ -28,10 +28,14 @@ const ContactForm = () => {
   return (
     <StyledContactForm>
       <form ref={form} onSubmit={sendEmail}>
-        <label>Vaše ime</label>
+        <label>Vaše ime:</label>
         <input type="text" name="from_name" />
-        <label>Vaš email</label>
+        <label>Vaše prezime:</label>
+        <input type="text" name="from_last_name" />
+        <label>Vaš email:</label>
         <input type="email" name="user_email" />
+        <label>Vaš kontakt broj:</label>
+        <input type="number" name="user_phone" />
         <label>Poruka</label>
         <textarea name="message" />
         <input type="submit" id="send-message" value="Pošsaljite poruku" />
